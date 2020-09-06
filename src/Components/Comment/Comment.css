@@ -1,0 +1,14 @@
+.fullComment{
+    font-size: 24px;
+    color:lightblue;
+}
+
+.commentName{
+    color:goldenrod;
+}
+.commentEmail{
+    color:red;
+}
+.commentBody{
+    color:purple;
+}
